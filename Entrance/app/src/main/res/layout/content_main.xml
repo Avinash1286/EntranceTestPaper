@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/app_bar_main">
+
+
+    <FrameLayout
+        android:id="@+id/hostFrag"
+        android:layout_width="match_parent"
+        android:layout_above="@id/bottomnav"
+        android:layout_height="match_parent"/>
+
+
+    <com.etebarian.meowbottomnavigation.MeowBottomNavigation
+        android:id="@+id/bottomnav"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:mbn_circleColor="#fff"
+        app:mbn_backgroundBottomColor="@color/colorPrimary"
+        app:mbn_countTextColor="#ffffff"
+        android:layout_alignParentBottom="true"
+        app:mbn_rippleColor="#F3F2F2"
+        app:mbn_shadowColor="#1f212121"
+        app:mbn_defaultIconColor="#F3F2F2"
+        app:mbn_selectedIconColor="#3c415e"
+        />
+
+</RelativeLayout>

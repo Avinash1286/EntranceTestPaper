@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "616326681889",
+    "firebase_url": "https://entrance-aptitude.firebaseio.com",
+    "project_id": "entrance-aptitude",
+    "storage_bucket": "entrance-aptitude.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616326681889:android:87235769cbc4e22a385a60",
+        "android_client_info": {
+          "package_name": "com.entranceaptitude"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616326681889-4dkcnv199nnde0bmvnf5gv6e3i1tnqd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.entranceaptitude",
+            "certificate_hash": "60ba2c7824cf4364a05256c26c7d4375635191e6"
+          }
+        },
+        {
+          "client_id": "616326681889-5hsfgcuqr3o99kn9uaes5m6avgiciq2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS-7qjCIbK0VXFWWHGkkH5hg06Bv0kQsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616326681889-5hsfgcuqr3o99kn9uaes5m6avgiciq2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

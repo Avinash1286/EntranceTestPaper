@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Entrance Test Paper 2020</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Entrance Test Paper 2020</string>
+    <string name="nav_header_subtitle">Questions Associated with Prasadi | St.Xavier | Budhanilkantha</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="default_notification_channel_id">notify01</string>
+    <string name="menu_result">SEE Result</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_upload">Upload PDF</string>
+    <string name="onback">ca-app-pub-2958208786391151/6783640515</string>
+    <style name="content">ca-app-pub-2958208786391151/2589885268</style>
+    <string name="result">ca-app-pub-2958208786391151/4349048864</string>
+    <string name="math">ca-app-pub-2958208786391151/9682208546</string>
+    <string name="science">ca-app-pub-2958208786391151/8575535654</string>
+    <string name="english">ca-app-pub-2958208786391151/7262453988</string>
+    <string name="past">ca-app-pub-2958208786391151/8369126877</string>
+    <string name="modelque">ca-app-pub-2958208786391151/7056045208</string>
+    <string name="appid">ca-app-pub-2958208786391151~1444216752</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
